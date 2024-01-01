@@ -1,0 +1,55 @@
+v\:*
+{
+   behavior:url(#default#VML);
+}
+
+o\:*
+{
+   behavior:url(#default#VML);
+}
+
+.shape
+{
+   behavior:url(#default#VML);
+}
+
+.webfx-tree-item a.selected {
+   color: selectedtext;
+   background: selected;
+}
+
+.webfx-tree-item a.selected-inactive {
+   color: windowtext;
+   background: buttonface;
+}
+
+.aFilter {
+   filter: progid:DXImageTransform.Microsoft.Shadow(color=#302020,direction=120,strength=6);
+   color: red;
+}
+
+.sort-table {
+   color:      WindowText;
+}
+
+.sort-table thead {
+   background: ButtonFace;
+}
+
+.sort-table thead td {
+   border:        1px solid;
+   border-color:  ButtonHighlight ButtonShadow
+               ButtonShadow ButtonHighlight;
+   cursor:        default;
+}
+
+.sort-table thead td:active {
+   border-color:  ButtonShadow ButtonHighlight 
+               ButtonHighlight ButtonShadow;
+   padding:    3px 4px 1px 6px;
+}
+
+.webfx-tree-item a:active {
+   background: highlight;
+   color: highlighttext;
+}

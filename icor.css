@@ -1,0 +1,1102 @@
+body 
+{
+/*   background-color: white; 
+   COLOR: black; 
+*/
+   FONT: 8pt Arial;
+}
+
+.normal 
+{
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+}
+
+LI
+{
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+}
+
+P
+{
+    
+    FONT-SIZE: 8pt;
+}
+
+IMG
+{
+   -ms-interpolation-mode:bicubic;
+   image-rendering:optimizeQuality;
+   vertical-align:middle;
+   border:0px;
+}
+
+INPUT
+{
+/*    BORDER-STYLE: ridge; */
+    FONT-SIZE: 8pt;
+}
+
+TEXTAREA
+{
+/*    BORDER-STYLE: ridge; */
+    FONT-SIZE: 8pt;
+}
+
+SELECT
+{
+/*    BORDER-STYLE: ridge; */
+    FONT-SIZE: 8pt;
+}
+
+SELECT.wide
+{
+    WIDTH: 90%;
+}
+
+OPTION
+{
+/*    BORDER-STYLE: ridge; */
+    FONT-SIZE: 8pt;
+}
+
+INPUT.pushbutton
+{
+    CURSOR: pointer;
+}
+
+INPUT.checkradio
+{
+    BORDER-STYLE: none;
+}
+
+BUTTON
+{
+    CURSOR: pointer;
+/*    BORDER-STYLE: ridge; */
+    FONT-SIZE: 8pt;
+}
+
+TH {
+   FONT-SIZE: 8pt !important;
+}
+
+TH.ui-widget-header {
+   FONT-SIZE: 8pt !important;
+}
+
+TABLE.objectsviewtable
+{
+/*
+    FONT-SIZE: 8pt;
+    BACKGROUND-COLOR: lightslategray;
+*/
+    MARGIN: 0px;
+    PADDING: 0px;
+    BORDER-BOTTOM: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+}
+TABLE.objectsviewsubtable
+{
+/*
+    FONT-SIZE: 8pt;
+    BACKGROUND-COLOR: lightslategray;
+*/
+    MARGIN: 0px;
+    PADDING: 0px;
+    BORDER-BOTTOM: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+}
+.objectsviewcaption
+{
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: left;
+    WHITE-SPACE: normal;
+}
+TH.objectsviewheader
+{
+/*
+    BACKGROUND-COLOR: Lavender;
+    COLOR: black;
+*/
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 3px;
+    PADDING-RIGHT: 3px;
+    TEXT-ALIGN: center;
+    
+}
+TD.objectsviewheader
+{
+/*
+    BACKGROUND-COLOR: Lavender;
+    COLOR: black;
+*/
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 3px;
+    PADDING-RIGHT: 3px;
+    TEXT-ALIGN: center;
+    
+}
+TH.objectsviewsubheader
+{
+/*
+    BACKGROUND-COLOR: Lavender;
+    COLOR: black;
+*/
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 3px;
+    PADDING-RIGHT: 3px;
+    TEXT-ALIGN: center;
+    
+}
+TD.objectsviewfooter
+{
+/*
+    BACKGROUND-COLOR: LightSteelBlue;
+    COLOR: black;
+*/
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 5px;
+    TEXT-ALIGN: right;
+    FONT-WEIGHT: bold;
+    
+}
+TF.objectsviewfooter
+{
+/*
+    BACKGROUND-COLOR: LightSteelBlue;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+}
+TR.objectsviewrow
+{
+    MARGIN: 6px;
+    
+    FONT-SIZE: 8pt;
+}
+
+TR.objectsviewsubrow
+{
+    MARGIN: 6px;
+    
+    FONT-SIZE: 8pt;
+}
+TD.objectsviewdata
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewdatawrap
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+}
+TD.objectsviewdatanowrap
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: nowrap;
+}
+TD.objectsviewdatasubsection
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewdatasubsectionsummary
+{
+/*
+    BACKGROUND-COLOR: LightSteelBlue;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewdataeven
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewdataodd
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewdataoddcolor
+{
+/*
+    BACKGROUND-COLOR: lavender;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewtabledataeven
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewtabledataodd
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewtabledataeven TD.objectsviewsubdata
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+TD.objectsviewtabledataodd TD.objectsviewsubdata
+{
+/*
+    BACKGROUND-COLOR: Ivory;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 4px;
+    PADDING-RIGHT: 2px;
+    WHITE-SPACE: normal;
+}
+A.objectitemasanchor:link
+{
+    
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none;
+}
+A.objectitemasanchor:visited
+{
+    
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none;
+}
+A.objectitemasanchor:active
+{
+    
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none;
+}
+
+TR.objectseditrow
+{
+    BORDER-BOTTOM-STYLE: solid;
+    
+    FONT-SIZE: 8pt;
+}
+TD.objectseditdatafieldname
+{
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: right;
+    WIDTH: 30%;
+/*    WHITE-SPACE: nowrap; */
+}
+
+TD.objectseditcolumnname
+{
+/*
+    COLOR: black;
+    BACKGROUND-COLOR: #AAD5D5;
+*/
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: center;
+    WHITE-SPACE:normal;
+}
+TD.objectseditdatafieldnameeven
+{
+/*
+    BACKGROUND-COLOR: lavender;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: right;
+    WIDTH: 30%;
+}
+TD.objectseditdatafieldnameodd
+{
+/*
+    BACKGROUND-COLOR: aliceblue;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: right;
+    WIDTH: 30%;
+}
+TD.objectseditdatafieldnameleftalign
+{
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WIDTH: 30%;
+}
+TD.objectseditdatafieldnameleftalignodd
+{
+/*
+    BACKGROUND-COLOR: lightsteelblue;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WIDTH: 30%;
+}
+TD.objectseditdatafieldnameleftaligneven
+{
+/*
+    BACKGROUND-COLOR: thistle;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WIDTH: 30%;
+}
+TD.objectseditdatafieldvalue
+{
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WHITE-SPACE: normal;
+}
+TD.objectseditsysteminfo {PADDING-LEFT: 5px; PADDING-RIGHT: 2px; TEXT-ALIGN: right;
+                          WHITE-SPACE: nowrap;
+                          FONT-SIZE: 8pt;FONT-WEIGHT: bold;}
+
+TD.objectseditsysteminfovalue {PADDING-LEFT: 5px; PADDING-RIGHT: 2px; TEXT-ALIGN: left;
+                               WHITE-SPACE: nowrap;
+                               FONT-SIZE: 8pt;FONT-WEIGHT: normal;}
+TD.objectseditdatafieldvalueeven
+{
+/*
+    BACKGROUND-COLOR: lavender;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WHITE-SPACE: normal;
+}
+TD.objectseditdatafieldvalueodd
+{
+/*
+    BACKGROUND-COLOR: aliceblue;
+    COLOR: black;
+*/
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WHITE-SPACE: normal;
+}
+TD.objectseditdatafieldvaluehtml {
+   PADDING-LEFT: 3px;
+   WHITE-SPACE: normal;
+/*
+   background-color:white;
+   border:solid 1px #cccccc;
+*/
+   }
+
+TD.objectseditdatafieldvaluenumeric
+{
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: right;
+    WHITE-SPACE: nowrap;
+}
+
+UL.icormenulist
+{
+    
+    FONT-STYLE: italic;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    LIST-STYLE: url(images/litem1.gif);
+}
+OL.icormenulist
+{
+    
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    CURSOR: pointer;    
+}
+LI.icormenulistitem
+{
+    
+    COLOR: royalblue;
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+}
+LI.icormenulistitemmouseout
+{
+    
+    COLOR: #000080;
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+}
+LI.icormenulistitemmousein
+{
+    
+    COLOR: #ff0000;
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+}
+
+.checkdescription
+{
+    
+    FONT-SIZE: 8pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+}
+
+P.menuaspagecaption
+{
+    
+    FONT-SIZE: 12pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center;
+}
+P.menuaspagesubcaption
+{
+    
+    FONT-SIZE: 12pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center;
+}
+
+.titlemain
+{
+/*
+    BACKGROUND-COLOR: #3399ff;
+    COLOR: #ffffff;
+*/
+    
+    FONT-SIZE: 12pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline;
+}
+
+a.reflistoutnavy, a.reflistoutnavy:link, a.reflistoutnavy:visited {margin:3px;padding:0px 7px;display:inline-block;width:auto;
+                                                                   font-size:10px;font-weight:bold;text-decoration:none;
+                                                                   background-image:url('images/tlo_tytul2.gif');background-position:0% 50%;
+                                                                   border:solid 1px #cccccc;}
+
+a.reflistoutnavy:hover {background-image:url('images/tlo_tytul.gif');border:solid 1px #2694e8;}
+
+a.reflistoutnavybutton, a.reflistoutnavybutton:link, a.reflistoutnavybutton:visited
+{
+   padding:5px;
+   display:inline-block;
+   width:auto;
+   font-size:8pt;
+   margin:1px;
+   color:navy;
+   text-decoration:none;
+   background-image:url('images/tlo_tytul2.gif');
+   background-position:0% 50%;
+   border:solid 1px #cccccc;
+}
+  
+a.reflistoutnavybutton:hover
+{
+   color:navy;
+   background-image:url('images/tlo_tytul.gif');
+   border:solid 1px #2694e8;
+}
+
+
+A.textu2ulink:link
+{
+    
+    FONT-SIZE: 8pt;
+}
+A.textu2ulink:visited
+{
+    
+    FONT-SIZE: 8pt;
+}
+
+.mapcaptionin
+{
+    COLOR: #000080;
+    BACKGROUND-COLOR: #FFC0CB;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16pt;
+    TEXT-DECORATION: none;
+    TEXT-ALIGN: center;
+    
+}
+.mapcaptionout
+{
+    COLOR: #000080;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 6pt;
+    TEXT-DECORATION: none;
+    TEXT-ALIGN: center;
+    
+}
+
+.pageinfo
+{
+    
+    FONT-SIZE: 8pt;
+    TEXT-ALIGN: center;
+}
+
+.required
+{
+    background-image:url(images/required.gif);
+    background-position:top right; 
+    background-repeat:no-repeat;
+}
+
+P.description
+{
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+    
+}
+
+.commentheader
+{
+   BACKGROUND-COLOR: buttonface; 
+   
+   FONT-SIZE: 8pt;
+   FONT-STYLE: normal;
+   FONT-WEIGHT: bold;
+   COLOR: navy;
+   PADDING: 4px;
+   BORDER-BOTTOM: buttonshadow solid 1px; 
+   BORDER-LEFT: buttonhighlight solid 1px; 
+   BORDER-RIGHT: buttonshadow solid 1px; 
+   BORDER-TOP:  buttonhighlight solid 1px; 
+}
+.commentbody
+{
+   PADDING: 4px;
+   BACKGROUND-COLOR: gainsboro; 
+   BORDER-BOTTOM: buttonhighlight solid 1px; 
+   BORDER-LEFT: buttonshadow solid 1px; 
+   BORDER-RIGHT: buttonhighlight solid 1px; 
+   BORDER-TOP:  buttonshadow solid 1px; 
+}
+
+A.tabanchortext
+{
+   TEXT-DECORATION: none;
+   FONT-SIZE: 10px;
+   COLOR: navy;
+   
+}
+TD.tabselected
+{
+   BACKGROUND-COLOR: ivory;
+}
+TD.tabunselected
+{
+   BACKGROUND-COLOR: #cedff7;
+}
+.tabtext
+{
+   TEXT-DECORATION: none;
+   COLOR: navy;
+   
+   FONT-SIZE: 12px;
+   WHITE-SPACE: nowrap;
+   CURSOR: pointer;
+}
+.tabtoolbar
+{
+    COLOR: navy;
+    FONT-SIZE: 14px;
+    WHITE-SPACE: nowrap;
+    cursor: pointer;
+}
+.tabtoolbarselected
+{
+    COLOR: red;
+    FONT-SIZE: 14px;
+    WHITE-SPACE: nowrap;
+    cursor: pointer;
+}
+
+span.tablepagecountbuttonposition
+{
+    COLOR: navy;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: webdings;
+    CURSOR: pointer;
+}
+span.tablepagecountbuttonpositionhover
+{
+    COLOR: red;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: webdings;
+    CURSOR: pointer;
+}
+span.tablepagecountbuttonpositiondisabled
+{
+    COLOR: silver;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: webdings;
+    CURSOR: pointer;
+}
+span.tablepagecountbuttonnumber
+{
+    COLOR: navy;
+    FONT-WEIGHT:normal;
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: courier new, courier;
+    CURSOR: pointer;
+}
+span.tablepagecountbuttonnumberhover
+{
+    COLOR: red;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: courier new, courier;
+    CURSOR: pointer;
+}
+span.tablepagecountbuttonnumbersel
+{
+    COLOR: red;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    TEXT-DECORATION: none;
+    FONT-FAMILY: courier new, courier;
+/*    CURSOR: pointer; */
+}
+
+/* SORTED TABLE*/
+
+.sort-table {
+   font:    Icon;
+   border:     1px Solid ThreeDShadow;
+   background: ivory;
+   color:      black;
+}
+
+.sort-table thead {
+   background: #79b7e7;
+}
+
+.sort-table td {
+   padding: 2px 5px;
+}
+
+.sort-table thead td {
+   border:        1px solid;
+   border-color:  blue #79b7e7 #79b7e7 blue;
+   cursor:        default;
+}
+
+.sort-table thead td:active {
+   border-color:  #79b7e7 blue blue #79b7e7;
+   padding:    3px 4px 1px 6px;
+}
+
+.sort-arrow {
+   width:               11px;
+   height:              11px;
+   background-position: center center;
+   background-repeat:      no-repeat;
+   margin:              0 2px;
+}
+
+.sort-arrow.descending {
+   background-image:    url("/icormanager/images/sorttable_downsimple.png");
+   
+}
+
+.sort-arrow.ascending {
+   background-image:    url("/icormanager/images/sorttable_upsimple.png");
+}
+
+.sort-row-even {
+   background: #eee;
+}
+
+.sort-row-odd {
+}
+
+/* XTREE */
+.webfx-tree-container {
+   margin: 0px;
+   padding: 0px;
+   font: icon;
+   white-space: nowrap;
+}
+
+.webfx-tree-item {
+   padding: 0px;
+   margin: 0px;
+   font: icon;
+   color: black;
+   white-space: nowrap;
+}
+
+.webfx-tree-item a, .webfx-tree-item a:active, .webfx-tree-item a:hover {
+   margin-left: 3px;
+   padding: 1px 2px 1px 2px;
+}
+
+.webfx-tree-item a {
+   color: black;
+   text-decoration: none;
+}
+
+.webfx-tree-item a:hover {
+   color: blue;
+   text-decoration: underline;
+}
+
+.webfx-tree-item a:active {
+   color: orange;
+   background: navy;
+   text-decoration: none;
+}
+
+.webfx-tree-item img {
+   vertical-align: middle;
+   border: 0px;
+}
+
+.webfx-tree-icon {
+   width: 16px;
+   height: 16px;
+}
+
+.webfx-tree-item a.selected {
+   color: orange;
+   background: navy;
+}
+
+.webfx-tree-item a.selected-inactive {
+   color: yellow;
+   background: navy;
+}
+
+input.tree-check-box {
+   width: auto;
+   margin: 0;
+   padding: 0;
+   height: 14px;
+   vertical-align: middle;
+}
+
+/* Image gallery */
+.opis {
+    COLOR: navy;
+    FONT: 10px Arial;
+}
+a.red,a.red:link,a.red:visited {
+    COLOR: navy;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+    
+}
+a.red:hover,a.red:active {
+    COLOR: red;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+    
+}
+
+div.rounded {
+/*   float: left; */
+/* width: 100%; padding: 6px; margin: 0px; */
+}
+div.roundedContent {
+/*   float: left; */
+/* width: 100%; padding: 4px; margin: 0px; */
+}
+
+.background_default {background: #ffffff;}
+
+.background_pasteldark_green {background: #99aa66;}
+.background_pasteldark_aqua {background: #66bbaa;}
+.background_pasteldark_red {background: #bb7777;}
+.background_pasteldark_violet {background: #aa99bb;}
+.background_pasteldark_yellow {background: #eedd99;}
+.background_pasteldark_blue {background: #bbccee;}
+
+.background_pastellight_red {background: #dcbfbe;}
+.background_pastellight_brown {background: #dcd6be;}
+.background_pastellight_green {background: #c1dcbe;}
+.background_pastellight_violet {background: #c1bedc;}
+.background_pastellight_sunny {background: #f1eab4;}
+.background_pastellight_blue {background: #c5cbf1;}
+.background_pastellight_yellow {background: #eff1cb;}
+.background_pastellight_pink {background: #e5cbf1;}
+
+.background_softcell_ochra {background: #f0e5db;}
+.background_softcell_blue {background: #dbdcf0;}
+.background_softcell_grey {background: #c9c9c9;}
+
+.background_gardenpath_blue {background: #cfeeee;}
+.background_gardenpath_green {background: #bfce84;}
+.background_gardenpath_red {background: #ffb5b5;}
+
+.background_pinkgreen_red {background: #e3a5ac;}
+.background_pinkgreen_pink {background: #e8c4dc;}
+.background_pinkgreen_yellow {background: #efe79a;}
+.background_pinkgreen_lightyellow {background: #f1fac9;}
+.background_pinkgreen_lightgreen {background: #cfde8d;}
+.background_pinkgreen_green {background: #899b39;}
+
+.background_nurseryrymes_red {background: #DCBFBE;}
+.background_nurseryrymes_brown {background: #DCD6BE;}
+.background_nurseryrymes_green {background: #C1DCBE;}
+.background_nurseryrymes_violet {background: #C1BEDC;}
+.background_nurseryrymes_darkyellow {background: #F1EAB4;}
+.background_nurseryrymes_blue {background: #C5CBF1;}
+.background_nurseryrymes_yellow {background: #EFF1CB;}
+.background_nurseryrymes_pink {background: #E5CBF1;}
+
+.background_pastelparadise_navy {background: #6989BA;}
+.background_pastelparadise_blue {background: #8CA5CA;}
+.background_pastelparadise_lightblue {background: #AFC0DA;}
+.background_pastelparadise_aqua {background: #95BDCE;}
+.background_pastelparadise_violet {background: #B3AFDA;}
+.background_pastelparadise_pink {background: #DAAFC9;}
+.background_pastelparadise_red {background: #E1A9A8;}
+.background_pastelparadise_orange {background: #E1CBA8;}
+.background_pastelparadise_yellow {background: #E0E1A8;}
+.background_pastelparadise_green {background: #CBD79D;}
+
+.background_mswebsitecs_navy {background: #67849C;}
+.background_mswebsitecs_blue {background: #86A2BA;}
+.background_mswebsitecs_lightblue {background: #A6C0D6;}
+.background_mswebsitecs_aqua {background: #D0E1EF;}
+.background_mswebsitecs_darkgrey {background: #535353;}
+.background_mswebsitecs_grey {background: #747474;}
+.background_mswebsitecs_lightgreen {background: #C7D6A6;}
+.background_mswebsitecs_green {background: #98A973;}
+.background_mswebsitecs_darkgreen {background: #7E964A;}
+.background_mswebsitecs_lightyellow {background: #E8F3D0;}
+.background_mswebsitecs_silver {background: #E1EEFA;}
+
+.fontcolor_list0 {COLOR: black;}
+.fontcolor_list1 {COLOR: green;}
+.fontcolor_list2 {COLOR: navy;}
+.fontcolor_list3 {COLOR: brown;}          
+
+/* GLOBALS */
+/*
+A:hover { COLOR: red; }
+*/
+
+
+/* nadpisanie ui */
+
+/* test1
+#tabscontainer-1 {}
+div.ui-tabs-panel {border:none;background-image:url('images/tlo_ui_menu.gif');background-repeat:repeat-x;background-position:0px 0px;}
+ul.ui-tabs-nav {margin:0px; padding:0px; padding-left:5px;}
+ul.ui-tabs-nav li {margin:0px;margin-right:1px;padding:0px;min-width:0;}
+ul.ui-tabs-nav li.ui-tabs-selected {margin:0px;margin-right:1px;padding:0px;background-image:none;background-color:white;}
+ul.ui-tabs-nav li a, ul.ui-tabs-nav li.ui-tabs-selected a {
+                                    margin:0px;padding:2px 4px;display:inline-block;width:auto;
+                                    font-size:10px;font-weight:bold;color:black;text-decoration:none;
+                                    background:none;background-image:url('images/tlo_tytul2.gif');background-position:0% 50%;
+                                    border:solid 1px #cccccc;border-bottom:none; }
+ul.ui-tabs-nav li a:hover {background-image:url('images/tlo_tytul.gif');background-position:0% 50%;border:solid 1px #2694e8;
+                           border-bottom:none;}
+ul.ui-tabs-nav li.ui-tabs-selected a {background:none; border-bottom:solid 1px white; top:0px}
+ul.ui-tabs-nav li.ui-tabs-selected a:hover {border:solid 1px #cccccc;border-bottom:solid 1px white;}
+ul.ui-tabs-nav li a span, ul.ui-tabs-nav li.ui-tabs-selected a span {margin:0px; padding:0px;background:none; }
+*/
+
+/* UI buttons styling: http://www.filamentgroup.com/lab/styling_buttons_and_toolbars_with_the_jquery_ui_css_framework/ - START */
+.fg-button { outline: 0 !important; margin:0 4px 0 0 !important; padding: .4em 1em !important; text-decoration:none !important; cursor:pointer !important; position: relative !important; text-align: center !important; zoom: 1 !important; }
+.fg-button .ui-icon { position: absolute !important; top: 50% !important; margin-top: -8px !important; left: 50% !important; margin-left: -8px !important; }
+
+a.fg-button { float:left !important; }
+
+/* remove extra button width in IE */
+button.fg-button { width:auto !important; overflow:visible !important; }
+
+.fg-button-icon-left { padding-left: 2.1em !important; }
+.fg-button-icon-right { padding-right: 2.1em !important; }
+.fg-button-icon-left .ui-icon { right: auto !important; left: .2em !important; margin-left: 0 !important; }
+.fg-button-icon-right .ui-icon { left: auto !important; right: .2em !important; margin-left: 0 !important; }
+
+.fg-button-icon-solo { display:block !important; width:8px !important; text-indent: -9999px !important; }    /* solo icon buttons must have block properties for the text-indent to work */  
+
+.fg-buttonset { float:left !important; }
+.fg-buttonset .fg-button { float: left !important; }
+.fg-buttonset-single .fg-button, .fg-buttonset-multi .fg-button { margin-right: -1px !important;}
+
+.fg-toolbar { padding: .5em !important; margin: 0 !important;  }
+.fg-toolbar .fg-buttonset { margin-right:1.5em !important; padding-left: 1px !important; }
+.fg-toolbar .fg-button { font-size: 1em !important;  }
+/* UI buttons styling: http://www.filamentgroup.com/lab/styling_buttons_and_toolbars_with_the_jquery_ui_css_framework/ - END */
+
+.fg-button-single { line-height:2.6em !important; outline: 0 !important; margin:0px 4px 4px 0px !important; padding: .4em 1em !important; text-decoration:none !important; cursor:pointer !important; position: relative !important; text-align: center !important; zoom: 1 !important; }
+.fg-button-single .ui-icon { position: absolute !important; top: 50% !important; margin-top: -8px !important; left: 50% !important; margin-left: -8px !important; }
+
+.ui-widget-content {
+   border:0px !important;
+}
+.ui-widget-content table {
+   width: 100% !important;
+}
+.dataTables_wrapper table {
+   width: 100% !important;
+}
+
+.elclickredirect{cursor:pointer}
+.elclickredirect td  {
+    
+    FONT-SIZE: 8pt;
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 2px;
+    TEXT-ALIGN: left;
+    WHITE-SPACE: normal;
+   }
+
+.left {text-align:left}
+.right {text-align:right}
+.center {text-align:center}
+.bold {font-weight:bold}
+.clear {clear:both}
+.clickable {cursor:pointer}

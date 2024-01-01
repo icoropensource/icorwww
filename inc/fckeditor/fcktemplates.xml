@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!--
+ * FCKeditor - The text editor for Internet - http://www.fckeditor.net
+ * Copyright (C) 2003-2007 Frederico Caldeira Knabben
+ *
+ * == BEGIN LICENSE ==
+ *
+ * Licensed under the terms of any of the following licenses at your
+ * choice:
+ *
+ *  - GNU General Public License Version 2 or later (the "GPL")
+ *    http://www.gnu.org/licenses/gpl.html
+ *
+ *  - GNU Lesser General Public License Version 2.1 or later (the "LGPL")
+ *    http://www.gnu.org/licenses/lgpl.html
+ *
+ *  - Mozilla Public License Version 1.1 or later (the "MPL")
+ *    http://www.mozilla.org/MPL/MPL-1.1.html
+ *
+ * == END LICENSE ==
+ *
+ * This is the sample templates definitions file. It makes the "templates"
+ * command completely customizable.
+ *
+ * See FCKConfig.TemplatesXmlPath in the configuration file.
+-->
+<Templates imagesBasePath="fck_template/images/">
+   <Template title="Obrazek i tytuł" image="template1.gif">
+      <Description>Jeden obrazek z tytułem i oblewającym tekstem.</Description>
+      <Html>
+         <![CDATA[
+            <img style="MARGIN-RIGHT: 10px" height="100" alt="" width="100" align="left"/>
+            <h3>Wpisz tutaj tytuł</h3>
+            Wpisz tekst tutaj
+         ]]>
+      </Html>
+   </Template>
+   <Template title="Dwie kolumny i tekst" image="template2.gif">
+      <Description>Dwie kolumny, każda z tytułem, dodatkowo tekst.</Description>
+      <Html>
+         <![CDATA[
+            <table cellspacing="0" cellpadding="0" width="100%" border="0">
+               <tbody>
+                  <tr>
+                     <td width="50%">
+                     <h3>Tytuł 1</h3>
+                     </td>
+                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+                     <td width="50%">
+                     <h3>Tytuł 2</h3>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>Tekst 1</td>
+                     <td>&nbsp;</td>
+                     <td>Tekst 2</td>
+                  </tr>
+               </tbody>
+            </table>
+            Miejsce na tekst.
+         ]]>
+      </Html>
+   </Template>
+   <Template title="Tekst i tabela" image="template3.gif">
+      <Description>Tytuł, tekst i tabela</Description>
+      <Html>
+         <![CDATA[
+            <table align="left" width="80%" border="0" cellspacing="0" cellpadding="0"><tr><td>
+               <h3>Wpisz tutaj tytuł</h3>
+               <p>
+               <table style="FLOAT: right" cellspacing="0" cellpadding="0" width="150" border="1">
+                  <tbody>
+                     <tr>
+                        <td align="center" colspan="3"><strong>Tytuł tabeli</strong></td>
+                     </tr>
+                     <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                     </tr>
+                  </tbody>
+               </table>
+               Wpisz tekst tutaj</p>
+            </td></tr></table>
+         ]]>
+      </Html>
+   </Template>
+   <Template title="Skarga na postepowanie" image="template3.gif">
+      <Description>Formatka z informacjami o firmie skladajacej protest, odwolanie itp.</Description>
+      <Html>
+         <![CDATA[
+<table cellspacing="1" cellpadding="1" width="100%" border="2">
+    <caption><em>Opis skargi/protestu/odwołania</em></caption>
+    <tbody>
+        <tr>
+            <td align="right" width="20%"><strong>Protest/odwołanie/skarga:</strong></td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+            <p align="right"><strong>Data zdarzenia:</strong></p>
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+            <p align="right"><strong>Nazwa firmy:</strong></p>
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+            <p align="right"><strong>Adres firmy:</strong></p>
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+            <p align="right"><strong>Osoba do kontaktu:</strong></p>
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+         ]]>
+      </Html>
+   </Template>
+</Templates>
